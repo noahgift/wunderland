@@ -1,0 +1,10 @@
+1.  Make branch from MessageBus project and then checkout branch:
+
+For example:
+svn co http://svn.keencorp.keen.com/KeenDev/branches/MessageBus/AD-12697/Admin/alice
+
+2.  cd into deps alice and checkout the latest mochiweb if it isn't installed.
+
+git clone git://github.com/mochi/mochiweb.git
+
+
